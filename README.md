@@ -21,6 +21,13 @@ Recharts – Librería para visualización de datos (gráficos )
 
 Axios – Cliente HTTP para la comunicación con el backend
 
+#  Rutas Navegacion
+
+-/admin	Panel administrativo para crear, editar y eliminar encuestas
+
+-/surveys	Página principal donde los usuarios pueden responder las encuestas
+
+-/results	Panel de visualización de resultados con gráficos 
 
 # Instalación
 
